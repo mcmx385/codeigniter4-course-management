@@ -12,6 +12,8 @@ For students:
 2. Click the teaching URL during the class time, then the system can automatically take 
 attendance for himself/herself.
 
-## Installation
+## Installatio
+```
 Upload database in App\Database\mysql
 run php spark serve
+```
